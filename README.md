@@ -1,2 +1,2 @@
 # first_ionic_app
-Cration of a todolist with ionic and angular.js
+Creation of a todolist with ionic and angular.js
